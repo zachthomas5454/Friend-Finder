@@ -22,5 +22,8 @@
     "express": "^4.17.1",
     "inquirer": "^7.0.3",
     "mysql": "^2.17.1"
+  },
+  "script": {
+    "start": "node server.js"
   }
 }
